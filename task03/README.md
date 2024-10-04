@@ -1,1 +1,0 @@
-# azure-terraform-1
